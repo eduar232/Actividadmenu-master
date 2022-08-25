@@ -44,8 +44,8 @@ def menu():
         return (opcion, diccionario)  
                
            
-print ("bienvenido al menu\n\n")
- for x in diccionrio
+def pintarMenu():
+    
 
 
 
