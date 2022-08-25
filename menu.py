@@ -45,7 +45,7 @@ def menu():
                
            
 def pintarMenu():
-    
+     op = menu()
 
 
 
