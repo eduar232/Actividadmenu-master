@@ -46,6 +46,7 @@ def menu():
            
 def pintarMenu():
      op = menu()
+    for clave in op[1]:
 
 
 
